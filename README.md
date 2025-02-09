@@ -43,6 +43,11 @@ npm run dev
 ```bash
 curl "http://localhost:xxxx/search?q=Bohemian+Rhapsody&type=track"
 ```
+The function spotify.search(query, [type]) let's you search different type of resources. For example:
+- type=track
+- type=album
+- type=artist
+You can also combine them, like type=track,album
 
 ### 🤖 Technologies Used
 - Cloudflare Workers
