@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "spotify-request",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-02-09",
+  "vars": {
+    "SPOTIFY_CLIENT_ID": "YOUR_SPOTIFY_CLIENT_ID",
+    "SPOTIFY_CLIENT_SECRET": "YOUR_SPOTIFY_CLIENT_SECRET"
+  }
+}
