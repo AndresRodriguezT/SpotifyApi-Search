@@ -47,6 +47,7 @@ The function spotify.search(query, [type]) let's you search different type of re
 - type=track
 - type=album
 - type=artist
+  
 You can also combine them, like type=track,album
 
 ### 🤖 Technologies Used
