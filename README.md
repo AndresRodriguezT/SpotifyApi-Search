@@ -53,5 +53,5 @@ You can also combine them, like type=track,album
 ### 🤖 Technologies Used
 - Cloudflare Workers
 - Hono
-- Spotify Web API TypeScript SDK
+- [Spotify Web API TypeScript SDK](https://github.com/spotify/spotify-web-api-ts-sdk)
 - TypeScript
